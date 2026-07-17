@@ -1,5 +1,5 @@
 # Restaurant-Management-System
-A basic Restaurant Management System project written on Java. No database is required.
+A basic Restaurant Management System project written in Java. No database is required.
 
 
 RESTAURANT MANAGEMENT SYSTEM
